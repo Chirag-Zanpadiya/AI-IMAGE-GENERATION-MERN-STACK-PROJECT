@@ -77,7 +77,7 @@ npm start
 | POST   | `/api/upload`       | Upload an image |
 
 ## 📸 Screenshot
-![Preview](https://your-screenshot-url.com/example.png)
+![Preview](client/public/front.png)
 
 ## 📝 License
 This project is licensed under the **MIT License**.
